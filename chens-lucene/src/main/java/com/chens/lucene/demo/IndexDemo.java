@@ -1,6 +1,6 @@
-package com.chens.search.demo;
+package com.chens.lucene.demo;
 
-import com.chens.search.ik.IKAnalyzer4Lucene7;
+import com.chens.lucene.ik.IKAnalyzer4Lucene7;
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
@@ -10,7 +10,6 @@ import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.store.RAMDirectory;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package com.chens.search.demo;
+package com.chens.lucene.demo;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.TokenFilter;

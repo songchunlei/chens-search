@@ -1,4 +1,4 @@
-package com.chens.search.ik;
+package com.chens.lucene.ik;
 
 import org.apache.lucene.analysis.Analyzer;
 

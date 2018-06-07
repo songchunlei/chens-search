@@ -1,4 +1,4 @@
-package com.chens.search.ik;
+package com.chens.lucene.ik;
 
 import java.io.IOException;
 
